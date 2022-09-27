@@ -1,0 +1,5 @@
+{
+    "urlApiBase_Local":"https://localhost:5001/api/",
+    "urlApiBase_Azure":"https://practicadockapi20220901095043.azurewebsites.net/api/",
+    "urlApiBase":"http://www.xquenda.net/practicadockapi/api/"
+}
